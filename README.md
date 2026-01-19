@@ -1,4 +1,4 @@
-# Tomas Ramoska Backup App
+# Backup App by Tomas
 
 A no-nonsense Python backup application built with Tkinter. This tool lets you select multiple source folders and back them up to a chosen destination folder. It keeps track of progress, logs errors, and even lets you cancel the operation if things go awry.
 
